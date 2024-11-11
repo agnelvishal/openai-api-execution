@@ -1,3 +1,4 @@
+# Initial Steps
 1. Rename sample_key.json as key.json
 2. Enter your openai API key in apiKey value in key.json file
 
